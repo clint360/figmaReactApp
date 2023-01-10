@@ -1,11 +1,10 @@
-import './App.css'
 import StickyBar from "./Components/StickyBar/StickyBar";
 import NavBar from "./Components/NavBar/NavBar";
 
 function App() {
   return (
     <div>
-   <StickyBar/>
+   <StickyBar/><br/><br/><br/>
    <NavBar/>
     </div>
   );
